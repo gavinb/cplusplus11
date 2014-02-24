@@ -50,19 +50,14 @@ avoid using any platform-specific features.
 # Licenses
 
 The text, explanations and relevant blog posts are licensed under the
-Creative Commons Attribution-ShareAlike 4.0 International license.
+Creative Commons Attribution-ShareAlike 4.0 International license:
 
-    http://creativecommons.org/licenses/by-sa/4.0/
+- http://creativecommons.org/licenses/by-sa/4.0/
 
 To the extent that there exists any originality, the example source files are
-published under the  MIT license.
+published under the MIT license (the simplest and most permissive):
 
-    http://opensource.org/licenses/MIT
-
-Usage of the standard library itself falls under the *scenes à faire* doctrine,
-in that copyright  cannot consist in code that is necessary by virtue of some
-other factor.  In other words, if there is only one way to interface with the
-standard library, it isn't a unique expression and thus not copyrightable.
+- http://opensource.org/licenses/MIT
 
 # Feedback
 

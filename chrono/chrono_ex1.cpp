@@ -15,7 +15,7 @@ int main()
 
     const uint32_t file_size_MB = 4;
     const uint32_t file_bytes = file_size_MB * 1024 * 1024;
-    auto buffer = std::unique_ptr<char>(new char[file_bytes]);
+    auto buffer = std::unique_ptr<char[]>(new char[file_bytes]);
 
     // Fill with random data to thwart filesystem compression
 

@@ -1,10 +1,10 @@
 
-SUBDIRS=async				\
-		chrono				\
-		regex				\
-		smart_pointers		\
-		string				\
-		threads
+SUBDIRS=future			\
+	chrono			\
+	regex			\
+	smart_pointers		\
+	string			\
+	threads
 
 all:	#
 		for d in $(SUBDIRS); do make -C $$d ; done
